@@ -1,5 +1,5 @@
 {
-    "name": "tuandm/laravue-core",
+    "name": "anticopyright-code/module-core",
     "description": "A Laravel package to provide a beatiful datashboard built by VueJS and Element-UI",
     "type": "library",
     "require": {
